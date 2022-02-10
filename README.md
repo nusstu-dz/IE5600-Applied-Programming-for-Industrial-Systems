@@ -1,0 +1,2 @@
+# IE5600-Applied-Programming-for-Industrial-Systems
+This module aims to train students to develop a solid competency of the Python programming language through a rigorous and continuous exercise-based approach. Topics covered include fundamental programming concepts (IO, variables and value assignment, conditional statements, flow control, methods), data structures (lists, tuples, sets, dictionaries), objects and classes, recursion. The course syllabus will also emphasize on various data engineering tools.
